@@ -12,7 +12,8 @@ function getUniqueViewNum(events) {
     let cnt = new Map<string, null>
     for (const event of events)
     {
-        cnt.set(event['username'], null)
+        let jsonEvent = JSON.parse(event)
+        cnt.set(jsonEvent['username'], null)
     }
 
     return cnt.size

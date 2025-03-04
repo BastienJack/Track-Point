@@ -19,7 +19,7 @@ function ItemNavigator() {
     )
 }
 
-let rowIncNum = 4
+const rowIncNum = 4
 function Item(idx) {
     let componentName = 'item' + idx
     let eventParams = EventParams

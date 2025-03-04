@@ -1,7 +1,7 @@
 import { EventParams } from './event_params.tsx'
 import {serverUrl} from "../main.tsx";
 
-// event mapping, first level is event name, second level is component name, third level is corresponding params
+// global variable for recording events
 export let events = new Map<string, Map<string, object>>()
 
 export const EventName = {
@@ -41,9 +41,10 @@ export const { registerEvent } = {
 
         for (const key in eventParams)
         {
-            events.get(eventName)?.set(key, eventParams[key])
+            events.get(eventName)?.set(eventParams['component_name'], eventParams)
         }
 
+        console.log(events)
         return true
     }
 }

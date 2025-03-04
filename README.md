@@ -2,4 +2,4 @@
 
 
 
-![](.\Structure\structure.jpg)
+![](./Structure/structure.jpg)
