@@ -1,0 +1,164 @@
+2025-02-04T16:01:43.265+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T16:01:44.298+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94cefe85940d for etcd registry.
+2025-02-04T16:07:05.532+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94cefe85940d for etcd registry.
+2025-02-04T16:16:19.174+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T16:16:20.206+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e05 for etcd registry.
+2025-02-04T17:01:26.914+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e05 for etcd registry.
+2025-02-04T17:01:30.432+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T17:01:31.456+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e2a for etcd registry.
+2025-02-04T17:56:37.326+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T17:56:37.328+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T17:56:37.328+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:57308
+2025-02-04T17:56:37.341+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T18:00:29.664+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:00:29.665+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:00:29.665+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:57308
+2025-02-04T18:00:29.668+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T18:02:38.837+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e2a for etcd registry.
+2025-02-04T18:02:43.098+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T18:02:44.118+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e4b for etcd registry.
+2025-02-04T18:02:47.257+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:02:47.261+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:02:47.261+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:53116
+2025-02-04T18:02:47.266+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T18:06:37.736+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e4b for etcd registry.
+2025-02-04T18:06:40.635+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T18:06:41.648+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e56 for etcd registry.
+2025-02-04T18:06:43.660+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T18:06:43.661+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:06:43.661+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:33242
+2025-02-04T18:06:43.664+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: username conflict."}
+2025-02-04T18:18:21.805+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e56 for etcd registry.
+2025-02-04T18:18:25.520+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T18:18:26.538+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e5f for etcd registry.
+2025-02-04T18:18:30.011+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T18:18:30.012+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:18:30.012+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:57606
+2025-02-04T18:18:30.015+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: username conflict."}
+2025-02-04T18:54:09.699+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e5f for etcd registry.
+2025-02-04T18:54:13.271+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T18:54:14.285+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e6a for etcd registry.
+2025-02-04T18:54:19.222+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T18:54:19.223+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:54:19.223+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:55422
+2025-02-04T18:54:19.238+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: server internal error."}
+2025-02-04T18:57:32.979+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e6a for etcd registry.
+2025-02-04T18:57:34.944+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T18:57:35.961+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e75 for etcd registry.
+2025-02-04T18:57:47.317+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T18:57:47.318+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:57:47.319+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:41670
+2025-02-04T18:58:41.714+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T18:58:41.714+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:58:41.714+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:41670
+2025-02-04T19:00:29.145+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e75 for etcd registry.
+2025-02-04T19:00:34.527+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:00:35.542+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e83 for etcd registry.
+2025-02-04T19:00:38.261+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:00:38.262+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:00:38.262+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:41384
+2025-02-04T19:03:53.187+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:03:53.187+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:03:53.187+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:41384
+2025-02-04T19:05:53.307+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e83 for etcd registry.
+2025-02-04T19:05:56.675+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:05:57.696+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e92 for etcd registry.
+2025-02-04T19:05:59.259+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:05:59.259+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:05:59.259+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:41294
+2025-02-04T19:08:08.327+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e92 for etcd registry.
+2025-02-04T19:08:14.256+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:08:15.276+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5e9b for etcd registry.
+2025-02-04T19:08:16.725+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:08:16.726+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:08:16.727+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:36980
+2025-02-04T19:09:04.987+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5e9b for etcd registry.
+2025-02-04T19:09:08.134+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:09:09.147+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5ea4 for etcd registry.
+2025-02-04T19:09:11.303+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:09:11.304+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:09:11.304+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:48074
+2025-02-04T19:09:50.499+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5ea4 for etcd registry.
+2025-02-04T19:09:53.123+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:09:54.136+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5ead for etcd registry.
+2025-02-04T19:09:55.046+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:09:55.047+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:09:55.047+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:47466
+2025-02-04T19:09:55.050+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: username conflict."}
+2025-02-04T19:11:40.762+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5ead for etcd registry.
+2025-02-04T19:11:43.616+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:11:44.629+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5eb8 for etcd registry.
+2025-02-04T19:11:47.839+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:11:47.840+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:11:47.840+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:55782
+2025-02-04T19:11:47.850+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: server internal error."}
+2025-02-04T19:12:35.727+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:12:35.727+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:12:35.728+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:55782
+2025-02-04T19:12:35.729+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: username conflict."}
+2025-02-04T19:14:15.511+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5eb8 for etcd registry.
+2025-02-04T19:14:18.623+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:14:19.637+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5ec9 for etcd registry.
+2025-02-04T19:14:20.611+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:14:20.611+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:14:20.611+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:55380
+2025-02-04T19:14:20.623+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: server internal error."}
+2025-02-04T19:15:04.869+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:15:04.870+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:15:04.870+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:55380
+2025-02-04T19:15:04.876+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: server internal error."}
+2025-02-04T19:20:00.510+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5ec9 for etcd registry.
+2025-02-04T19:20:04.933+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:20:05.949+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5eda for etcd registry.
+2025-02-04T19:20:08.631+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:20:08.632+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:20:08.632+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:33068
+2025-02-04T19:20:08.640+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:20:35.021+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:20:35.021+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:20:35.021+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:33068
+2025-02-04T19:20:35.024+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:23:25.653+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5eda for etcd registry.
+2025-02-04T19:23:28.531+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:23:29.547+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5eea for etcd registry.
+2025-02-04T19:23:30.123+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:23:30.124+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:23:30.124+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:34394
+2025-02-04T19:23:30.137+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:25:09.012+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:25:09.012+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:25:09.012+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:34394
+2025-02-04T19:25:09.017+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:25:16.813+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:25:16.814+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:25:16.814+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:34394
+2025-02-04T19:25:16.827+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:25:31.622+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5eea for etcd registry.
+2025-02-04T19:25:39.616+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:25:40.640+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5ef8 for etcd registry.
+2025-02-04T19:25:42.322+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:25:42.324+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:25:42.325+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:56060
+2025-02-04T19:25:42.347+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: server internal error."}
+2025-02-04T19:28:43.422+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5ef8 for etcd registry.
+2025-02-04T19:28:48.902+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:28:49.922+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5f02 for etcd registry.
+2025-02-04T19:28:53.857+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:28:53.859+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:28:53.859+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:45064
+2025-02-04T19:28:53.868+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: server internal error."}
+2025-02-04T19:30:37.102+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5f02 for etcd registry.
+2025-02-04T19:30:40.348+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:30:41.380+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5f0c for etcd registry.
+2025-02-04T19:30:43.011+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai" password:"jinkai" confirm_password:"jinkai"}
+2025-02-04T19:30:43.012+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:30:43.012+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:39528
+2025-02-04T19:30:43.022+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1 status_msg:"Error: server internal error."}
+2025-02-04T19:33:04.564+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5f0c for etcd registry.
+2025-02-04T19:33:24.524+0800	INFO	db/init.go:86	Mysql server connection successful!
+2025-02-04T19:33:25.543+0800	INFO	etcd/registry.go:94	Start keepalive lease 694d94d0007a5f15 for etcd registry.
+2025-02-04T19:33:29.277+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:33:29.277+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:33:29.278+0800	INFO	middleware/server.go:18	client address: 127.0.0.1:48004
+2025-02-04T19:33:29.286+0800	INFO	middleware/common.go:38	real response: &{Success:status_msg:"Success"  user_id:13}
+2025-02-04T19:35:18.751+0800	INFO	etcd/registry.go:105	Stop keepalive lease 694d94d0007a5f15 for etcd registry.

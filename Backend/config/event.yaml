@@ -1,0 +1,12 @@
+event_params:
+  username: "default"
+  component_name: "default"
+
+server:
+  name: "TrackPointService"
+  host: 127.0.0.1
+  port: 6101
+
+etcd:
+  host: 127.0.0.1
+  port: 2379

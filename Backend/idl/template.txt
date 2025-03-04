@@ -1,0 +1,4 @@
+kitex -module commerce -v -service UserService user.proto
+kitex -module commerce -v -service ProductService product.proto
+kitex -module commerce -v -service TrackPointService track_point.proto
+

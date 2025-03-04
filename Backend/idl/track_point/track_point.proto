@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+package track_point;
+
+option go_package = "/track-point";
+
+service TrackPointService {
+  rpc SendEvent(SendEventRequest) returns (SendEventResponse) {}
+  rpc QueryEvent(QueryEventRequest) returns (QueryEventResponse) {}
+  rpc DeleteEvent(DeleteEventRequest) returns (DeleteEventResponse) {}
+}
+
+message Event {
+  uint64 event_id = 1;
+  string event_name = 2;
+  string event_params = 3;
+}
+
+message SendEventRequest {
+  string json_event_params = 1;
+}
+
+message SendEventResponse {
+  int32 status_code = 1;
+  string status_msg = 2;
+}
+
+message QueryEventRequest {
+  int32 offset = 1;
+  int32 limit = 2;
+}
+
+message QueryEventResponse {
+  int32 status_code = 1;
+  string status_msg = 2;
+  repeated Event events = 3;
+}
+
+message DeleteEventRequest {
+  uint64 event_id = 1;
+}
+
+message DeleteEventResponse {
+  int32 status_code = 1;
+  string status_msg = 2;
+}

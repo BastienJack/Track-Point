@@ -1,0 +1,9 @@
+mysql:
+  source:
+    driverName: mysql
+    host: 127.0.0.1
+    port: 3100
+    database: db_commerce
+    username: root
+    password: root
+    charset: utf8mb4

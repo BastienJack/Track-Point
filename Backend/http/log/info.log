@@ -1,0 +1,101 @@
+2025-02-04T17:56:37.302+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T17:56:37.317+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T17:56:37.319+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T17:56:37.341+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T18:00:29.656+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:00:29.659+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:00:29.662+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T18:00:29.669+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T18:02:47.247+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:02:47.254+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:02:47.257+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T18:02:47.266+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T18:06:43.657+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:06:43.657+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:06:43.658+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T18:06:43.664+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T18:18:30.008+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:18:30.009+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:18:30.010+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T18:18:30.015+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T18:54:19.214+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:54:19.214+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:54:19.221+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T18:54:19.238+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T18:57:47.312+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:57:47.314+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:57:47.316+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T18:58:41.711+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T18:58:41.712+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T18:58:41.713+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:00:38.257+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:00:38.258+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:00:38.259+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:03:53.183+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:03:53.184+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:03:53.186+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:05:59.255+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:05:59.256+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:05:59.258+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:08:16.722+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:08:16.723+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:08:16.724+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:09:11.300+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:09:11.301+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:09:11.302+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:09:55.044+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:09:55.044+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:09:55.045+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:09:55.051+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T19:11:47.833+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:11:47.833+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:11:47.835+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:11:47.853+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:12:35.725+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:12:35.726+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:12:35.727+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:12:35.731+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: username conflict."}
+2025-02-04T19:14:20.608+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:14:20.608+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:14:20.610+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:14:20.624+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:15:04.867+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:15:04.867+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:15:04.868+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:15:04.876+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:20:08.624+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:20:08.626+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:20:08.628+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:20:08.641+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:20:35.019+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:20:35.019+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:20:35.021+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:20:35.025+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:23:30.120+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:23:30.120+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:23:30.122+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:23:30.137+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:25:09.009+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:25:09.010+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:25:09.011+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:25:09.017+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:25:16.812+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:25:16.812+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:25:16.813+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:25:16.829+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:25:42.318+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:25:42.318+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:25:42.321+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:25:42.348+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:28:53.854+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:28:53.854+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:28:53.856+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:28:53.868+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:30:43.008+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:30:43.009+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:30:43.010+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:30:43.022+0800	INFO	middleware/common.go:38	real response: &{Success:status_code:-1  status_msg:"Error: server internal error."}
+2025-02-04T19:33:29.272+0800	DEBUG	middleware/common.go:26	real request: &{Req:username:"jinkai"  password:"jinkai"  confirm_password:"jinkai"}
+2025-02-04T19:33:29.274+0800	DEBUG	middleware/common.go:29	remote service name: CommerceUserService, remote method: Register
+2025-02-04T19:33:29.275+0800	INFO	middleware/client.go:18	server address: 127.0.0.1:6100, rpc timeout: 30s, readwrite timeout: 30s
+2025-02-04T19:33:29.287+0800	INFO	middleware/common.go:38	real response: &{Success:status_msg:"Success"  user_id:13}

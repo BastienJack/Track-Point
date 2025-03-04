@@ -1,0 +1,13 @@
+server:
+  name: "CommerceAPIServer"
+  host: 127.0.0.1
+  port: 6060
+  limit:
+    capacity: 200
+    rate: 20
+    tokenInit: 128  # 初始令牌个数
+
+Etcd:
+  enable: true
+  host: 127.0.0.1
+  port: 2379

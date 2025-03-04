@@ -1,0 +1,19 @@
+2025-02-04T17:56:37.338+0800	ERROR	service/user.go:89	Error: username conflict. Info: <nil>
+2025-02-04T18:00:29.667+0800	ERROR	service/user.go:89	Error: username conflict. Info: <nil>
+2025-02-04T18:02:47.265+0800	ERROR	service/user.go:89	Error: username conflict. Info: <nil>
+2025-02-04T18:06:43.662+0800	ERROR	service/user.go:89	Error: username conflict. Info: username=&{Model:{ID:0 CreatedAt:0001-01-01 00:00:00 +0000 UTC UpdatedAt:0001-01-01 00:00:00 +0000 UTC DeletedAt:{Time:0001-01-01 00:00:00 +0000 UTC Valid:false}} Username: Password:}.
+2025-02-04T18:18:30.013+0800	ERROR	service/user.go:89	Error: username conflict. Info: user_info=&{Model:{ID:0 CreatedAt:0001-01-01 00:00:00 +0000 UTC UpdatedAt:0001-01-01 00:00:00 +0000 UTC DeletedAt:{Time:0001-01-01 00:00:00 +0000 UTC Valid:false}} Username: Password:}.
+2025-02-04T18:54:19.236+0800	ERROR	service/user.go:119	Error: get user id err <nil>
+2025-02-04T19:09:55.049+0800	ERROR	service/user.go:89	Error: username conflict. Info: user_info=<nil>.
+2025-02-04T19:11:47.847+0800	ERROR	service/user.go:106	Error: create user in database error. Info: Error 1062 (23000): Duplicate entry 'jinkai' for key 'Users.idx_username'.
+2025-02-04T19:12:35.728+0800	ERROR	service/user.go:89	Error: username conflict. Info: user_info=&{Model:{ID:0 CreatedAt:0001-01-01 00:00:00 +0000 UTC UpdatedAt:0001-01-01 00:00:00 +0000 UTC DeletedAt:{Time:0001-01-01 00:00:00 +0000 UTC Valid:false}} Username: Password:}.
+2025-02-04T19:14:20.619+0800	ERROR	service/user.go:119	Error: get user id err <nil>
+2025-02-04T19:15:04.875+0800	ERROR	service/user.go:106	Error: create user in database error. Info: Error 1062 (23000): Duplicate entry 'jinkai' for key 'Users.idx_username'.
+2025-02-04T19:20:08.639+0800	ERROR	service/user.go:106	Error: create user in database error. Info: Error 1062 (23000): Duplicate entry 'jinkai' for key 'Users.idx_username'.
+2025-02-04T19:20:35.022+0800	ERROR	service/user.go:80	Error: select username error. Info: record not found.
+2025-02-04T19:23:30.135+0800	ERROR	service/user.go:121	Error: get user id err <nil>
+2025-02-04T19:25:09.016+0800	ERROR	service/user.go:108	Error: create user in database error. Info: Error 1062 (23000): Duplicate entry 'jinkai' for key 'Users.idx_username'.
+2025-02-04T19:25:16.823+0800	ERROR	service/user.go:121	Error: get user id err <nil>
+2025-02-04T19:25:42.345+0800	ERROR	service/user.go:121	Error: get user id error. Info: error=<nil>, user=<nil>.
+2025-02-04T19:28:53.867+0800	ERROR	service/user.go:121	Error: get user id error. Info: error=<nil>, user=<nil>.
+2025-02-04T19:30:43.020+0800	ERROR	service/user.go:121	Error: get user id error. Info: error=<nil>, user=<nil>.

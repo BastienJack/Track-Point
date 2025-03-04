@@ -1,0 +1,55 @@
+.background {
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    background-image: url('../assets/background.jpeg');
+    background-size: cover;
+
+    z-index: -1;
+}
+
+.hint {
+    margin-bottom: 20px;
+}
+
+.input {
+    width: 300px;
+}
+
+.username_input {
+    width: 200px;
+    margin: 0.5rem;
+
+    text-align: center;
+}
+
+.password_input {
+    width: 200px;
+    margin: 0.5rem;
+
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+.login_button {
+    width: 100px;
+    margin: 0.5rem;
+
+    text-align: center;
+}
+
+.register_button {
+    width: 100px;
+    margin: 0.5rem;
+
+    text-align: center;
+}
+  
